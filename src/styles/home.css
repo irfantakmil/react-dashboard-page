@@ -1,0 +1,72 @@
+/* .home_container {
+    display: flex;
+    justify-content: space-around;
+} */
+
+.logo {
+    height: 40px;
+    width: 80%;
+}
+
+.information {
+    height: 100vh;
+    background-color: white;
+    border: 10px solid #edf2ef;
+}
+
+.info_header > h3, h4, h5 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.info_header > h4 {
+    color: green;
+}
+
+.info_content {
+    margin-top: 20px;
+}
+
+.info_content > h5, h6 {
+    text-align: start;
+}
+
+.green_text {
+    color: green
+}
+
+.location {
+    background-color: white;
+    border: 10px solid #edf2ef;
+    height: 20vh;
+}
+
+
+.lokasi_header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.lokasi_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bankacount {
+    background-color: white;
+    border: 10px solid #edf2ef;
+    height: 40vh;
+}
+
+.activity {
+    background-color: white;
+    border: 10px solid #edf2ef;
+    height: 80vh;
+}
+
+.relasi {
+    background-color: white;
+    border: 10px solid #edf2ef;
+    height: 40vh;
+}
+

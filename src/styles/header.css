@@ -1,0 +1,25 @@
+.header_container {
+    display: flex;
+    justify-content: end;
+    margin-right: 100px;
+}
+
+.header_container > div {
+    width: 100px;
+}
+
+.header_icons {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.profile_icon {
+    display: flex;
+    margin-left: 20px;
+    justify-content: space-around;
+}
+
+.user_name p {
+    font-size: 15px;
+}
